@@ -39,7 +39,6 @@ Présentation de mon service
             <p>Animation texte & logo</p>
         </div>
 
-        <!-- ➕ COPIE-COLLE CE BLOC POUR D’AUTRES VIDÉOS -->
 
     </div>
 </section>
